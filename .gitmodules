@@ -1,3 +1,6 @@
 [submodule "clients/nethermind"]
 	path = clients/nethermind
 	url = https://github.com/NethermindEth/nethermind.git
+[submodule "clients/lighthouse"]
+	path = clients/lighthouse
+	url = https://github.com/sigp/lighthouse.git
